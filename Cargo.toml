@@ -1,0 +1,9 @@
+[package]
+name = "application1"
+version = "0.1.0"
+authors = ["abombard <arthbab@gmail.com>"]
+
+[dependencies]
+glium = "*"
+ocl = "0.11"
+colorify = "0.2"

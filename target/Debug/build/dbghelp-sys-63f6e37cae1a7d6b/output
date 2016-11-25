@@ -1,0 +1,2 @@
+cargo:rustc-link-lib=dylib=dbghelp
+cargo:rustc-link-search=native=C:\Users\Teabagg\.cargo\registry\src\github.com-1ecc6299db9ec823\dbghelp-sys-0.2.0/x86_64
