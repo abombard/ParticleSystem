@@ -1,0 +1,8 @@
+[package]
+name = "newParticleSystem"
+version = "0.1.0"
+authors = ["abombard <arthbab@gmail.com>"]
+
+[dependencies]
+glutin = "*"
+gl = "*"

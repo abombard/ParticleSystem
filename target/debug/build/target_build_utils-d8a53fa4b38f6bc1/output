@@ -1,0 +1,2 @@
+rustc --print=cfg --target=asmjs-unknown-emscripten did not exit successfully
+rustc --print=cfg --target=le32-unknown-nacl did not exit successfully
